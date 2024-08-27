@@ -1,0 +1,5 @@
+Reporting-MTA: dns; iix18.idcloudhost.com
+
+Action: failed
+Final-Recipient: rfc822;qas203@tggj.cn
+Status: 5.0.0
